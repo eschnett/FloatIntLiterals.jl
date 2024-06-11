@@ -1,0 +1,7 @@
+name = "FloatIntLiterals"
+uuid = "d825739f-1e7d-411f-adf0-2b899cf72c5b"
+authors = ["Erik Schnetter <schnetter@gmail.com>"]
+version = "1.0.0"
+
+[compat]
+julia = "1.6"
